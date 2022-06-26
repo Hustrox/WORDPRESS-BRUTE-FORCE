@@ -24,4 +24,3 @@ WORDPRESS KULLANICI ADI ONUDA WPSCAN ADLI LİNUX TOOLUNDAN BULURSUNUZ.
 
 İNDİRME LİNKİ: https://s2.dosya.tc/server16/f27gxx/hustrox-main.rar.html
 
-VİRÜS TOTAL: https://www.virustotal.com/gui/url/...9f939f8dd91eb26fbf2666d38936a7f19a0?nocache=1
